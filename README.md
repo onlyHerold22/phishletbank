@@ -8,8 +8,10 @@
 <a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-2.3.0-blue" ></a>  
 </p>
 <p align="center">
-<a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/price-1950$-brightgreen" ></a>  
+<a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/NEW price-2950$-brightgreen" ></a>  
 </p>
+<p align="center">
+Updated the price due to a large number of sales
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FTrewisScotch%2Fstatus%2F1450444029536129027%3Fs%3D20)
 ![GitHub all releases](https://img.shields.io/github/downloads/trewisscotch/PHISHLET-EVILGINX2-/total?label=TREWIS%20%5BHIRO%5D%20SCOTCH&logo=C&style=for-the-badge)
