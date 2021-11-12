@@ -8,7 +8,7 @@
 <a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/version-2.3.0-blue" ></a>  
 </p>
 <p align="center">
-<a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/NEW price-2950$-brightgreen" ></a>  
+<a href="https://github.com/Ignitetch/AdvPhishing/releases"><img title="GitHub version" src="https://img.shields.io/badge/NEW price-5000$-brightgreen" ></a>  
 </p>
 <p align="center">
 Updated the price due to a large number of sales
@@ -26,7 +26,7 @@ This is a long development of my collection that I have been working on for the 
 
 🙌 I PRESENT to you my collection from the sites :
 
-****1Password / Binance / Bitfinex / Bittrex / Bitwarden / Blockchain / Cex.io / Coinbase / Dashlane / Enpass / Enterprise WebAccountManager / Exmo / FTX Trading / Google / Huobi / Keeper / Korbit / Kraken / LastPass / MultiPassword / O365 / Yahoo****
+****1Password / Binance / Bitfinex / Bittrex / Bitwarden / Blockchain / Cex.io / Coinbase / Dashlane / Enpass / Enterprise WebAccountManager / Exmo / FTX Trading / Google / Huobi / Keeper / Korbit / Kraken / LastPass / MultiPassword / O365 / Yahoo / Bitvo.com / Canadianbitcoins.com / Liquid.com / Litebit.com / Mybtc.ca / Netcoins.com / opensea / Shakepay.co ****
 
 ## Usage
 
