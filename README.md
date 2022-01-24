@@ -26,8 +26,8 @@ This is a long development of my collection that I have been working on for the 
 
 🙌 I PRESENT to you my collection from the sites :
 
-***1Password / Binance / Bitfinex / Bittrex / Bitwarden / Blockchain / Cex.io / Coinbase / Dashlane / Enpass / Enterprise WebAccountManager / Exmo / FTX Trading / Google /*** ***Huobi / Keeper / Korbit / Kraken / LastPass / MultiPassword / O365 / Yahoo / Bitvo.com / Canadianbitcoins.com / Liquid.com / Litebit.com / Mybtc.ca / Netcoins.com / opensea/*** 
-***Shakepay.co / Citibank / Deutsche Bank / Chase / BOA / Wells Fargo / Bank of New York Mellon / Capital One / Suntrust / PancakeSwap / MetaGear***
+***1Password / Binance / Bitfinex / Bittrex / Bitwarden / Blockchain / Cex.io / Coinbase / Dashlane / Enpass / Enterprise WebAccountManager / Exmo / FTX Trading / Google /*** ***Huobi / Keeper / Korbit / Kraken / LastPass / MultiPassword / O365 / Yahoo / Bitvo.com / Canadianbitcoins.com / Liquid.com / Litebit.com / Mybtc.ca / Netcoins.com /*** 
+***Shakepay.co / Citibank / Deutsche Bank / Chase / BOA / Wells Fargo / Bank of New York Mellon / Capital One / Suntrust / MetaGear***
 
 ## Usage
 
