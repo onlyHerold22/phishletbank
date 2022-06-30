@@ -29,6 +29,14 @@ This is a long development of my collection that I have been working on for the 
 ***1Password / Binance / Bitfinex / Bittrex / Bitwarden / Blockchain / Cex.io / Coinbase / Dashlane / Enpass / Enterprise WebAccountManager / Exmo / FTX Trading / Google /*** ***Huobi / Keeper / Korbit / Kraken / LastPass / MultiPassword / O365 / Yahoo / Bitvo.com / Canadianbitcoins.com / Liquid.com / Litebit.com / Mybtc.ca / Netcoins.com /*** 
 ***Shakepay.co / Citibank / Deutsche Bank / Chase / BOA / Wells Fargo / Bank of New York Mellon / Capital One / Suntrust / MetaGear***
 
+### BANK
+
+***Bank of America / BB&T / Citigroup / Comerica / Credicorp / First Republic Bank / JPMorgan Chase / KeyBank / M&T Bank / Royal Bank of Canada / Toronto-Dominion Bank / U.S. Bancorp / Wells Fargo***
+
+### CRYPTO
+***Binance / Bitfinex / Bittrex / Blockchain / Cex.io / Coinbase / Exmo / FTX Trading / Huobi / Kraken / Canadianbitcoins / Litebit / Mybtc***
+
+
 ## Usage
 
 **IMPORTANT!** Make sure that there is no service listening on ports `TCP 443`, `TCP 80` and `UDP 53`. You may need to shutdown apache or nginx and any service used for resolving DNS that may be running. **evilginx2** will tell you on launch if it fails to open a listening socket on any of these ports.
